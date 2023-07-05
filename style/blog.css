@@ -1,0 +1,14 @@
+.head{
+    background-color: darksalmon;
+    border: 2cqmaxsolid cyan;
+    text-align: center;
+    /* margin-inline-end: ; */
+}
+.para{
+    border: 10px solid tomato;
+    border-radius: 10px;
+    margin: 10px;
+}
+.head,para{
+    border: 10px solid royalblue;
+}
